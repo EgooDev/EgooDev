@@ -80,7 +80,7 @@
 
 ###
 
-<h2 align="left">J'ai déjà utilisé plusieurs fois, je m'en sors bien.</h2>
+<h2 align="left">I've used it several times and I manage pretty well.</h2>
 
 ###
 
