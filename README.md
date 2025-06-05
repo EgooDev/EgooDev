@@ -99,7 +99,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/egoodev/egoodev/output/snake.svg" alt="Snake animation" />
-
-###
