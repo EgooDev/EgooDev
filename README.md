@@ -1,4 +1,4 @@
-<img align="center" height="100" src="https://i.imgur.com/qdQ2J46.png"  />
+<img align="left" height="100" src="https://i.imgur.com/qdQ2J46.png"  />
 
 ###
 
@@ -25,7 +25,7 @@
 <h2 align="left">My project</h2>
 <h3 align="left">- https://shootgun.info</h3>
 <h3 align="left">- My profile: https://shootgun.info/ego</h3>
-<h3 align="center"> </h3>
+<h3 align="center">--</h3>
 
 ###
 
