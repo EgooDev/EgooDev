@@ -22,6 +22,12 @@
 
 ###
 
+<h2 align="left">My project</h2>
+<h3 align="left">- https://shootgun.info</h3>
+<h3 align="left">- My profile: https://shootgun.info/ego</h3>
+
+###
+
 <h2 align="left">I know it well!</h2>
 
 ###
