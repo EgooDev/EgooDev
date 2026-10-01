@@ -1,5 +1,3 @@
-<img align="left" height="100" src="https://i.imgur.com/Hm07OWU.jpeg"  />
-
 ###
 
 <h2 align="center">Hi 👋, I'm Ego</h2>
